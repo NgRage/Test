@@ -13,7 +13,7 @@
 Алгоритм решения задачи
 
 ### Тестирование
-Картинка будет(наверное)
+<img width="199" height="204" alt="image" src="https://github.com/user-attachments/assets/3c48be08-b685-4736-89f1-932a09fbb5c7" />
 
 ## Задача 2
 
